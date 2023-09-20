@@ -1,1 +1,53 @@
+/* CSS code for styling the profile page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.profile, .about, .skills {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.skill {
+    margin: 10px 0;
+}
+
+.progress {
+    background-color: #ddd;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.progress-bar {
+    background-color: #3498db;
+    height: 100%;
+    border-radius: 5px;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+}
 
